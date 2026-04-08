@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔐 SecureAuth - Production-Ready Authentication System
 
 A complete, secure authentication system with enterprise-level security features.
@@ -280,3 +281,7 @@ secure-auth/
 ## 📄 License
 
 MIT - Feel free to use in your projects!
+=======
+# SecureAuth
+Enterprise-grade authentication backend with JWT, 2FA, email verification, login monitoring, and anti-brute-force security. Perfect for developers who want a production-ready, modular Node.js authentication system.
+>>>>>>> ffe7303a675200df32a9fd15989971c319458918
