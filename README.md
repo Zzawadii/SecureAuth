@@ -87,7 +87,7 @@ secure-auth/
 ├── .env.example               # Environment template
 ├── .gitignore
 ├── package.json
-
+└── README.md
 ```
 
 ## 📄 License
