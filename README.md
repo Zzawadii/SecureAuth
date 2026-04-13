@@ -88,7 +88,7 @@ secure-auth/
 ├── .gitignore
 ├── package.json
 └── README.md
-
+```
 ## 📄 License
 
 MIT License
