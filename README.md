@@ -64,10 +64,6 @@ npm run dev
 - 30-second time window
 - QR code generation for easy setup
 
-
-## 📄 License
-
-MIT License
 ## 📦 Project Structure
 
 ```
@@ -93,3 +89,7 @@ secure-auth/
 ├── package.json
 └── README.md
 ```
+
+## 📄 License
+
+MIT License
