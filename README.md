@@ -92,3 +92,4 @@ secure-auth/
 
 ## 📄 License
 
+MIT License
